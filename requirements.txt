@@ -1,0 +1,3 @@
+astrobox==1.7.0.dev1
+pygame==2.0.0
+robogame-engine==1.4.2.dev1
